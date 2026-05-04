@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Sanvith%20H%20N&fontSize=60&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&text=Sanvith%20H%20N&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&shadow=true&desc=Full-Stack%20Developer%20%7C%20Innovation%20Enthusiast" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Crafting+scalable+solutions;Driven+by+innovation;Building+the+future" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00f7ff&center=true&vCenter=true&width=600&lines=💻+Building+Scalable+Solutions;🚀+Driven+by+Innovation;🎯+Full-Stack+Developer;⚡+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💼 About Me
 
-I'm a passionate **Information Science Engineering student** with a strong foundation in software development and problem-solving. I specialize in building full-stack applications with clean, efficient code and innovative solutions. My journey is driven by curiosity, continuous learning, and a passion for creating impactful technology.
+I'm a passionate **Information Science Engineering student** with a strong foundation in software development and problem-solving. I specialize in building full-stack applications with clean, efficient code and user-centric design. Always eager to learn, innovate, and contribute to impactful projects.
 
 ---
 
@@ -69,7 +69,7 @@ I'm a passionate **Information Science Engineering student** with a strong found
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanvithhn2006-rgb&theme=tokyo-night&bg_color=0d1117&color=7ee787&line=00f7ff&point=7ee787&hide_border=true" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanvithhn2006-rgb&theme=tokyo-night&bg_color=0d1117&color=7ee787&line=00f7ff&point=7ee787&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---

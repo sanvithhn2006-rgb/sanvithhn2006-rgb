@@ -15,3 +15,8 @@
 - 💻 Languages: C, C++ ,Python , Java (learning), JavaScript (starting)
 - 🌐 Web: HTML, CSS
 - ⚙️ Tools: Git, GitHub, VS Code
+
+### 📌 Projects
+- 🛵 Urban Help App 
+- 🎨 Art Gallery Website
+- 📦 Inventory Management System

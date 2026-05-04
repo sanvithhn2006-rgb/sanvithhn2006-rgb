@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Sanvith%20H%20N&fontSize=60&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20ISE%20Student&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Sanvith%20H%20N&fontSize=60&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Crafting+scalable+solutions;Driven+by+innovation;Excellence+in+every+line+of+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Crafting+scalable+solutions;Driven+by+innovation;Building+the+future" />
 </p>
 
 ---
 
 ## 👨‍💼 About Me
 
-I'm a passionate **Information Science Engineering student** with a strong foundation in software development and problem-solving. I specialize in building full-stack applications with clean, efficient code and a focus on user experience. With hands-on experience in web development, systems programming, and collaborative projects, I'm committed to delivering high-quality solutions that make a real impact.
+I'm a passionate **Information Science Engineering student** with a strong foundation in software development and problem-solving. I specialize in building full-stack applications with clean, efficient code and innovative solutions. My journey is driven by curiosity, continuous learning, and a passion for creating impactful technology.
 
 ---
 
@@ -33,7 +33,8 @@ I'm a passionate **Information Science Engineering student** with a strong found
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web%20Development-FF6B6B?style=for-the-badge&logo=web&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -44,6 +45,7 @@ I'm a passionate **Information Science Engineering student** with a strong found
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       </p>
     </td>
     <td align="center" width="50%">
@@ -67,7 +69,7 @@ I'm a passionate **Information Science Engineering student** with a strong found
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanvithhn2006-rgb&theme=tokyo-night&bg_color=0d1117&color=7ee787&line=00f7ff&point=7ee787&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanvithhn2006-rgb&theme=tokyo-night&bg_color=0d1117&color=7ee787&line=00f7ff&point=7ee787&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -80,11 +82,13 @@ I'm a passionate **Information Science Engineering student** with a strong found
       <h3>🛵 Urban Help App</h3>
       <p>A full-stack mobile-first solution designed to streamline emergency assistance and community support services. Features real-time location tracking and instant notifications.</p>
       <p><strong>Tech Stack:</strong> JavaScript, HTML, CSS</p>
+      <p><a href="#"><code>View Project →</code></a></p>
     </td>
     <td width="50%">
       <h3>🎨 Art Gallery Website</h3>
       <p>A responsive, pixel-perfect art gallery platform with dynamic content management and interactive user interface. Showcases portfolio pieces with advanced filtering capabilities.</p>
       <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
+      <p><a href="#"><code>View Project →</code></a></p>
     </td>
   </tr>
   <tr>
@@ -92,6 +96,7 @@ I'm a passionate **Information Science Engineering student** with a strong found
       <h3>📦 Inventory Management System</h3>
       <p>A comprehensive backend system for managing inventory across multiple locations. Includes CRUD operations, real-time stock updates, and detailed reporting analytics.</p>
       <p><strong>Tech Stack:</strong> Java, Python, C++</p>
+      <p><a href="#"><code>View Project →</code></a></p>
     </td>
     <td width="50%">
       <h3>💡 More Coming Soon</h3>
@@ -111,11 +116,13 @@ I'm a passionate **Information Science Engineering student** with a strong found
    └── System Design & Architecture
    └── Data Structures & Algorithms
    └── Software Engineering Best Practices
+   └── Cloud Computing & DevOps
 ```
 
 - 🔥 **Passionate About:** Building scalable applications, problem-solving, hackathons
 - 🎯 **Goal:** Develop impactful software that solves real-world challenges
 - 💪 **Commitment:** Continuous learning and technical excellence
+- 🌱 **Growing:** Every day brings new opportunities to learn and improve
 
 ---
 
@@ -131,12 +138,17 @@ I'm a passionate **Information Science Engineering student** with a strong found
 
 <p align="center">
   <a href="https://github.com/sanvithhn2006-rgb">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <i>"Code is poetry. Design is language. Let's build something extraordinary together."</i>

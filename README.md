@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sanvith%20|%20Building%20the%20Future%20🚀&textBg=true&fontAlign=50&fontAlignY=51&animation=fadeIn&strokeWidth=-1
 <h1 align="center">Hi 👋, I'm Sanvith</h1>
 <h3 align="center">🚀 ISE Student | Beginner Developer | Building Cool Stuff</h3>
 

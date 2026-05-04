@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&text=Sanvith%20H%20N&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&shadow=true&desc=Full-Stack%20Developer%20%7C%20Innovation%20Enthusiast" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,25:302b63,50:24243e,75:1a1f47,100:0d1117&text=Sanvith%20H%20N&fontSize=70&fontColor=00f7ff&animation=fadeIn&fontAlignY=30&section=header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00f7ff&center=true&vCenter=true&width=600&lines=💻+Building+Scalable+Solutions;🚀+Driven+by+Innovation;🎯+Full-Stack+Developer;⚡+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00f7ff&center=true&vCenter=true&width=600&lines=💻+Building+Scalable+Solutions;🚀+Driven+by+Innovation;⚡+Full+Stack+Developer;🎯+Problem+Solving+Enthusiast" />
 </p>
 
 ---
 
 ## 👨‍💼 About Me
 
-I'm a passionate **Information Science Engineering student** with a strong foundation in software development and problem-solving. I specialize in building full-stack applications with clean, efficient code and user-centric design. Always eager to learn, innovate, and contribute to impactful projects.
+I'm a passionate **Information Science Engineering student** with a strong foundation in software development and problem-solving. I specialize in building full-stack applications with clean, efficient code and innovative solutions.
 
 ---
 
@@ -155,5 +155,5 @@ I'm a passionate **Information Science Engineering student** with a strong found
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f2027,50:203a43,100:2c5364&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:1a1f47,100:302b63&section=footer" />
 </p>

@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanvithhn2006-rgb&theme=tokyonight" />
 </p>
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 - 💻 Languages: C, C++ ,Python , Java (learning), JavaScript (starting)
 - 🌐 Web: HTML, CSS
 - ⚙️ Tools: Git, GitHub, VS Code

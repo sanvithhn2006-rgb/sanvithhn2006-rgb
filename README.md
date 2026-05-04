@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Sanvith%20🚀&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%20|%20Developer%20in%20Progress&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,50:004e92,100:000428&text=SANVITH&fontSize=55&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=ISE%20Student%20|%20Developer%20|%20Problem%20Solver&descAlignY=60" />
 </p>
 </p>
 <h1 align="center">Hi 👋, I'm Sanvith</h1>
